@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm a French and British Backend Developper and aspiring DevOps.
+
+I'm currently working for Orange Cyberdefense, I'm also a student in security and cloud.
 
 <!--
 **mrtnhwtt/mrtnhwtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
