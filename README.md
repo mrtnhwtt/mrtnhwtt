@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm a French and British Backend Developper and aspiring DevOps.
+I'm a French and British Backend Developper/DevOps.
 
-I'm currently working for Orange Cyberdefense, I'm also a student in security and cloud.
+I'm currently working for Orange Cyberdefense as a DevOps on the Datalake project, a Threat Intelligence SaaS. I'm also a student in security and cloud, two fields I'm passionate about.
 
 Lately I've been enjoying coding in Rust, and played around a little in Golang. Next on the list: Ruby.
 <!--
